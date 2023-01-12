@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @apancoast
 - 👀 I’m interested in using data to improve lives
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on projects for the social good
+- 🌱 I’m seeking a data analyst role
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pancoastashley/)
 
 <!---
